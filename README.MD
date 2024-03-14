@@ -1,4 +1,4 @@
-# GPT4 AI Voice Assistant SwiftUI App
+# GPT4 AI Voice Doctor tutor SwiftUI App
 
 AI Voice Assistant App built with SwiftUI and OpenAI APIs (GPT4 Chat Completion, Whisper, TTS)
 
