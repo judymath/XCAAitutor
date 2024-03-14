@@ -8,12 +8,12 @@
 import AVFoundation
 import Foundation
 import Observation
-import XCAOpenAIClient
+import XCAOpenAIClientnew
 
 @Observable
 class ViewModel: NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelegate {
     
-    let client = OpenAIClient(apiKey: "YOUR_API_KEY")
+    let client = OpenAIClientnew(apiKey: "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")
     var audioPlayer: AVAudioPlayer!
     var audioRecorder: AVAudioRecorder!
     #if !os(macOS)

@@ -15,7 +15,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack(spacing: 16) {
-            Text("XCA AI Voice Assistant")
+            Text("Simspeak AI Voice Doctor")
                 .font(.title2)
             
             Spacer()
